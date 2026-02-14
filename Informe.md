@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-Julián Barragán Pérez
-Juan David González Rubio
-Josue Sarmiento
+- Julián Barragán Pérez
+- Juan David González Rubio
+- Josue David Sarmiento
 
 ## Objetivo
 
@@ -84,7 +84,8 @@ El diagrama de contexto del sistema se encuentra en el archivo adjunto a continu
 
 **Archivo:** `Diagrama de contexto.drawio.png`
 
-![Diagrama de contexto](./Diagrama%20de%20contexto.drawio.png)
+<img src="Diagrama%20de%20contexto.drawio.png" alt="Diagrama de contexto" style="max-width:100%;height:auto;" />
+
 
 ---
 
