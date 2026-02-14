@@ -78,53 +78,13 @@ Los datos principales abarcan pacientes, médicos, especialidades, citas y factu
 
 ---
 
-## Parte 1 — Trabajo en clase (entregable: borrador)
+## Diagrama de Contexto
 
-Durante la sesión el equipo debe:
+El diagrama de contexto del sistema se encuentra en el archivo adjunto a continuación.
 
-- Construir el ERD con PK y FK claramente marcadas.
-- Mostrar cardinalidades en todas las relaciones.
-- Exportar el diagrama de trabajo a `clase/modelo-er-borrador.drawio`.
-- Documentar las decisiones y supuestos en `clase/notas.md`.
+**Archivo:** `Diagrama de contexto.drawio.png`
 
----
-
-## Estructura sugerida del repositorio
-
-```
-taller-02-modelo-informacion/
-├── README.md
-├── clase/
-│   ├── modelo-er-borrador.drawio
-│   ├── contexto-borrador.drawio
-│   └── notas.md
-├── entrega/
-│   ├── modelo-final-er.drawio
-│   ├── diagrama-contexto-final.drawio
-│   ├── informe.md
-│   └── referencias.md
-```
-
----
-
-## Entregables finales
-
-- `entrega/modelo-final-er.drawio` — Diagrama ER final.
-- `entrega/diagrama-contexto-final.drawio` — Diagrama de contexto final.
-- `entrega/informe.md` — Informe técnico (esta versión pulida deberá quedar aquí).
-- `entrega/referencias.md` — Fuentes y material de apoyo.
-
----
-
-## Rúbrica de evaluación (resumen)
-
-| Criterio                     | Excelente (5)                                         | Aceptable (3) / Insuficiente (1–2) |
-|-----------------------------|-------------------------------------------------------|------------------------------------|
-| Modelo ER del caso base     | Diagrama coherente, relaciones correctas y completas   | Relaciones confusas o errores      |
-| Diagrama de contexto        | Actores y flujos bien identificados y detallados       | Faltan actores o flujos erróneos   |
-| Aplicación al cliente real  | Adaptación documentada y justificada                   | No refleja el dominio real         |
-| Investigación y referencias | Uso de fuentes y ejemplos para sustentar decisiones    | Documentación débil o ausente      |
-```
+![Diagrama de contexto](./Diagrama%20de%20contexto.drawio.png)
 
 ---
 
