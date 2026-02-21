@@ -92,12 +92,12 @@ El diagrama de contexto del sistema se encuentra en el archivo adjunto a continu
 
 
 ---
-# Parte 2: Aplicación al Cliente Real – BRY Andina
+# Parte 2: Aplicación al Cliente Real – Bray Andina
 ---
 
 # 1. Introducción
 
-El presente documento describe el modelo de información (ERD) y el diagrama de contexto desarrollados para BRY Andina, subsidiaria corporativa de Bray International en Colombia.
+El presente documento describe el modelo de información (ERD) y el diagrama de contexto desarrollados para Bray Andina, subsidiaria corporativa de Bray International en Colombia.
 
 A diferencia del caso base hospitalario trabajado en clase, este modelo se adapta a un dominio empresarial B2B de comercialización industrial, donde no existe fabricación local sino importación, almacenamiento, ensamble y distribución de válvulas y sistemas de control de fluidos.
 
@@ -107,7 +107,7 @@ El objetivo fue modelar correctamente las entidades de información y los flujos
 
 # 2. Análisis del Dominio
 
-BRY Andina es una empresa comercializadora industrial que:
+Bray Andina es una empresa comercializadora industrial que:
 
 - Compra productos a subsidiarias del mismo corporativo (Bray China, Bray Houston).
 - Mantiene inventario local en bodega.
@@ -310,7 +310,7 @@ El flujo real identificado es el siguiente:
 
 ## 5.1 Sistema Central
 
-ERP LN – Sistema de Gestión Empresarial BRY Andina
+ERP LN – Sistema de Gestión Empresarial Bray Andina
 
 ---
 
@@ -357,7 +357,7 @@ Factura → Cliente
 
 ## 6.1 Eliminación de Producción
 
-Se eliminó la entidad Orden_Produccion del modelo inicial debido a que BRY Andina no fabrica productos; únicamente compra al corporativo y comercializa.
+Se eliminó la entidad Orden_Produccion del modelo inicial debido a que Bray Andina no fabrica productos; únicamente compra al corporativo y comercializa.
 
 ---
 
@@ -387,7 +387,7 @@ Caso base hospitalario:
 - Médico
 - Factura
 
-Modelo BRY Andina:
+Modelo Bray Andina:
 - Cliente
 - Cotización
 - Pedido
@@ -402,7 +402,7 @@ El modelo refleja un dominio de comercialización industrial B2B, claramente dis
 
 # 8. Conclusión
 
-El modelo desarrollado representa de manera estructurada el proceso comercial real de BRY Andina, alineado con su operación como subsidiaria comercial del corporativo Bray International.
+El modelo desarrollado representa de manera estructurada el proceso comercial real de Bray Andina, alineado con su operación como subsidiaria comercial del corporativo Bray International.
 
 Se aplicaron principios de normalización, separación de responsabilidades y coherencia con el dominio empresarial, logrando un modelo consistente tanto en el ERD como en el diagrama de contexto.
 
