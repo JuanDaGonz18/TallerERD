@@ -307,7 +307,7 @@ El flujo real identificado es el siguiente:
 ---
 
 # 5. Diagrama de Contexto
-
+<img src="Diagrama.drawio.png" alt="Diagrama de contexto" style="max-width:100%;height:auto;" />
 ## 5.1 Sistema Central
 
 ERP LN – Sistema de Gestión Empresarial Bray Andina
