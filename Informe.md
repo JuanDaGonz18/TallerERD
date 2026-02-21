@@ -307,9 +307,9 @@ El flujo real identificado es el siguiente:
 ---
 
 # 5. Diagrama de Contexto
-**Archivo:** `diagrama.drawio.png`
+**Archivo:** `ERD_BRY_Andina.drawio.png`
 
-<img src="diagrama.drawio.png" alt="Diagrama de contexto" style="max-width:100%;height:auto;" />
+<img src="ERD_BRY_Andina.drawio.png" alt="Diagrama de contexto" style="max-width:100%;height:auto;" />
 
 ## 5.1 Sistema Central
 
